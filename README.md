@@ -3,7 +3,7 @@
 ### NVIDIA NIM (NVIDIA Infrastructure Manager) ###
 <p>NVIDIA NIM(NVIDIA Infrastructure Manager)를 처음 듣는 분들에게, 간단히 정리하자면 다음과 같음. NIM은 고성능 컴퓨팅(HPC), AI 워크로드 및 GPU 가속 환경을 위해 NVIDIA 하드웨어 인프라를 간단하고 최적화하여 관리할 수 있도록 설계된 소프트웨어 플랫폼을 말함. 이 플랫폼은 NVIDIA GPU, DGX 시스템 및 네트워킹 구성 요소를 포함한 NVIDIA 시스템의 배포 및 운영을 모니터링, 관리 및 자동화하는 도구를 제공함. 또한, NVIDIA NIM은 대규모 GPU 클러스터 관리를 효율적으로 수행해야 하는 복잡한 AI 및 HPC 워크로드를 실행하는 조직에 특히 유용함. 이 솔루션은 인프라 관리를 간소화하고 자원 활용도를 최적화함으로써 다른 NVIDIA 솔루션을 보완함. </p>
 
-<p>NVIDIA NIM의 주요 기능은 다음과 같다. 
+<p>NVIDIA NIM의 주요 기능은 다음과 같다.</p> 
   
 <p>* 중앙 집중식 관리: NVIDIA GPU 클러스터와 DGX 시스템을 모니터링하고 관리할 수 있는 통합 인터페이스를 제공함. </p>
 <p>* 성능 모니터링: GPU 활용률, 온도, 전력 소비 및 기타 성능 지표를 실시간으로 추적함. </p>
@@ -13,9 +13,9 @@
 <p>* 통합: NVIDIA AI Enterprise, CUDA와 같은 NVIDIA 소프트웨어 스택 및 Kubernetes와 같은 컨테이너 오케스트레이션 플랫폼과 원활하게 통합됨. </p>
 <P>* 알림 및 진단: 시스템 상태를 유지하고 다운타임을 최소화하기 위해 사전 경고 및 진단 기능을 제공함. </P>
 
-### [NVIDIA NIM으로 생성형 AI를 배포하기 위한 빠른 가이드](https://developer.nvidia.com/ko-kr/blog/a-simple-guide-to-deploying-generative-ai-with-nvidia-nim/?ncid=em-anno-720296) ###
+#### [NVIDIA NIM으로 생성형 AI를 배포하기 위한 빠른 가이드](https://developer.nvidia.com/ko-kr/blog/a-simple-guide-to-deploying-generative-ai-with-nvidia-nim/?ncid=em-anno-720296) ####
 
-### 최신 트렌드 *** 
+### 최신 NIM 트렌드 ###
 
 ### [1. 3D Conditioning for Precise Visual Generative AI](https://build.nvidia.com/nvidia/conditioning-for-precise-visual-generative-ai?ncid=em-anno-621294)
 <p>요약: [Microsoft Ignite 2024](https://ignite.microsoft.com/en-US/home)에서 발표된 정밀한 시각적 생성형 AI를 위한 3D 컨디셔닝용 Omniverse Blueprint는 개발자가 실시간 렌더링과 생성형 AI 출력을 활용해 브랜드에 부합하는 정확한 마케팅 비주얼을 제작할 수 있는 애플리케이션을 구축할 수 있도록 지원함.</p>
